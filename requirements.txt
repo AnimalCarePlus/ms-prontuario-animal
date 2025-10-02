@@ -3,3 +3,5 @@ Flask-SQLAlchemy
 Flask-JWT-Extended
 flasgger
 python-dotenv
+requests
+
